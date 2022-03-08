@@ -7,6 +7,8 @@
 #Objective of the game is to protect the 6 dragons from the evil prince and his kights who are trying to ipress the fairest maiden of the land by slaying the dragons. once done and he is gone from the island you must visit HIS island to confront him and his knights and have a legendary battle. win or dont win. depends on your skill
 #player has coins to purchase things from the shop
 
+
+#Matthew is super OP
 from PIL import Image
 
 
