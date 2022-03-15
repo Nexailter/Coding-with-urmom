@@ -125,3 +125,7 @@ if (upgrade) == ('Damage'):
 if (upgrade) == ('Speed'):
   (coins)-=(50)
   print('¢' + str(coins) + ' left' )
+
+
+
+  #I love totinos pizza rolls
