@@ -19,7 +19,7 @@ choice = ['a','b','c']
 
 classes = ['Hunter','Demon','Wizard']
 Elements = ['Fire','Ice','Earth','Lightning']
-bad_words = ['fuck','fuck off','shit','asshole','apple']  
+bad_words = ['fuck','fuck off','shit','asshole']  
 shop = {'Speed' :50 , 'Damage' :50 , 'Health' :50 }
 
 coins = 100
